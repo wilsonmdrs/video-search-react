@@ -9,7 +9,7 @@ This project has been developed as an activity of the course Modern React with R
 * Yarn (optional)
 
 ### Cloning Git Repository
-    $ git clone https://github.com/wilsonmdrs/genetic-algorithm.git
+    $ git clone https://github.com/wilsonmdrs/video-search-react
 
 #### Download Packages and dependencies
 get in the project folder via terminal and type:
